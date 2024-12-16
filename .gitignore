@@ -1,3 +1,6 @@
+.idea
+.vscode
+out
 # Compiled class file
 *.class
 
